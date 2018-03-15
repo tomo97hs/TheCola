@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 27ef49d7f55e44a54b0f3a59735f5797
+timeCreated: 1511477727
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AMEMUCHIGOTHIC-04
+  fontNames:
+  - AMEMUCHIGOTHIC-04
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

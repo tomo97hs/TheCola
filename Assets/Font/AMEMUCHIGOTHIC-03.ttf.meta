@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b7b191c9f04dd4d2c8d06b439f801efc
+timeCreated: 1511477729
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AMEMUCHIGOTHIC-03
+  fontNames:
+  - AMEMUCHIGOTHIC-03
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

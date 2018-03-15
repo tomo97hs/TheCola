@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9834339f62b25481b8c5978794933a0c
+timeCreated: 1511477729
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AMEMUCHIGOTHIC-02
+  fontNames:
+  - AMEMUCHIGOTHIC-02
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
